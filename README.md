@@ -214,8 +214,11 @@ A.I.D.A.
 -x-
 
 Visitantes / tráfego / aumente sua visibilidade
+
 Leads / transforme o visitante em seguidor
+
 Oportunidade / Primeira Oferta / hora de abordar
+
 Cliente / virando cliente
 
 
@@ -391,7 +394,7 @@ a tentação de colocar quantidade imensa de informações
 no anúncio. o facebook bane ou puni anúncios esdrúxulos.
 
 a regra dos 20% é do FB.
-No máximo 20% de teto.
+No máximo 20% de texto.
 
 google it: facebook image checker
 
